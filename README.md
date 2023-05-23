@@ -1,6 +1,10 @@
+<p align="center">
+<a href=""><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
 # Hello! 👋
 
-I'm Daniel, a developer passionate to learn about new technologies for implement in my projects.
+I'm Daniel, a developer passionate to discover new technologies for implement in my projects. I'm currently a student, looking forward to learn and build amazing things.
 
 Here you'll find a collection of my repositories, contributions and experiencies about programming and software development.
 
