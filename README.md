@@ -1,4 +1,6 @@
-# Hello! 👋
+#
+
+<img src="assets/banner.png">
 
 I'm Daniel, a developer passionate to discover new technologies for implement in my projects. I'm currently a student, looking forward to learn and build amazing things.
 
