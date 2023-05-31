@@ -4,7 +4,7 @@
     <img src="assets/banner.png" alt="banner" height="200px">
 </p>
 
-I'm Daniel, a developer passionate to discover new technologies for implement in my projects. I'm currently a student, looking forward to learn and build amazing things.
+I'm a developer passionate to discover new technologies for implement in my projects. I'm currently a student, looking forward to learn and build amazing things.
 
 Here you'll find a collection of my repositories, contributions and experiencies about programming and software development.
 
