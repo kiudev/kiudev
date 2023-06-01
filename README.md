@@ -1,7 +1,7 @@
 #
 
 <p align="center">
-    <img src="assets/banner.png" alt="banner" height="200px">
+    <img src="assets/banner.png" alt="banner">
 </p>
 
 I'm a developer passionate to discover new technologies for implement in my projects. I'm currently a student, looking forward to learn and build amazing things.
@@ -32,5 +32,5 @@ Here you'll find a collection of my repositories, contributions and experiencies
 # Contact Me 🗨️
 
 <p align="center">
-    <a href="https://es.linkedin.com/in/daniel-saavedra-escuder-14222a210"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+    <a href="https://es.linkedin.com/in/daniel-saavedra-escuder-14222a210" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 </p>
