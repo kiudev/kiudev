@@ -1,10 +1,10 @@
 <h2>Hi I'm Daniel 👋</h2>
 
-A developer passionate to discover new technologies for implement in my projects. I'm currently a student, looking forward to learn and build amazing things.
+Passionate to discover new technologies for implement in my projects. I'm currently a student, looking forward to learn and build amazing things.
 
-Here you'll find a collection of my repositories, contributions and experiencies about programming and software development.
+Here you'll find a collection of my repositories, contributions and experiencies about software development.
 
-There are also some technologies and tools that I use below 
+There are also some technologies and tools that I use below. 
 <img src="https://media1.giphy.com/media/k3wQS2dbaRPYU9C5vG/200w.gif?cid=6c09b952ak5uqxqwb5stc0xd9xorl2oxtebckdzdfxswldqe&ep=v1_gifs_search&rid=200w.gif&ct=s" width="20"></img>
 
 <br>
