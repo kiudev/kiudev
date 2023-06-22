@@ -1,5 +1,3 @@
-<img width="150" align="right" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif"></img>
-
 <h2>Hi I'm Daniel 👋</h2>
 
 A developer passionate to discover new technologies for implement in my projects. I'm currently a student, looking forward to learn and build amazing things.
