@@ -1,6 +1,6 @@
 <h2>Hi I'm Daniel 👋</h2>
 
-Passionate to discover new technologies for implement in my projects. I'm currently a student, looking forward to learn and build amazing things.
+Passionate to discover new technologies for implement in my projects. Looking forward to learn and build amazing things.
 
 Here you'll find a collection of my repositories, contributions and experiencies about software development.
 
